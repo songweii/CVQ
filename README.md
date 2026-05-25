@@ -1,4 +1,4 @@
-<h2 align="center"> <a href="https://arxiv.org/abs/xxx">Channel-wise Vector Quantization</a></h2>
+# Channel-wise Vector Quantization
 <h5 align="center"> If our project helps you, please give us a star ⭐ and <a href="##citation">cite our paper</a>!</h2>
 <h5 align="center">
 
