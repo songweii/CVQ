@@ -1,8 +1,8 @@
-<h2 align="center"> <a href="https://arxiv.org/abs/xxx">Channel-wise Vector Quantization</a></h2>
+<h2 align="center"> <a href="https://arxiv.org/abs/2605.26089">Channel-wise Vector Quantization</a></h2>
 <h5 align="center"> If our project helps you, please give us a star ⭐ and <a href="##citation">cite our paper</a>!</h2>
 <h5 align="center">
 
-<a href="https://arxiv.org/abs/xxx"><img src='https://img.shields.io/badge/arXiv-CVQ-red' alt='Paper PDF'></a>
+<a href="https://arxiv.org/abs/2605.26089"><img src='https://img.shields.io/badge/arXiv-CVQ-red' alt='Paper PDF'></a>
 <a href=""><img src='https://img.shields.io/badge/Project_Page-CVQ-green' alt='Project Page'></a>
 <a href=""><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a>
 </div>
@@ -22,7 +22,7 @@ This repository provides a ViT version of the CVQ tokenizer. For convenience, we
 
 ## 📰 News
 
-- **[2025/03/18]** 🌟 We have released the technical report of **CVQ**. See [here](https://arxiv.org/abs/xxx)!
+- **[2025/03/18]** 🌟 We have released the technical report of **CVQ**. See [here](https://arxiv.org/abs/2605.26089)!
 
 
 ## 🤗 Model Zoo
@@ -89,7 +89,7 @@ and [VQGAN](https://github.com/compvis/taming-transformers).
 @article{cvq,
   title={Channel-wise Vector Quantization},
   author={Song, Wei and Wang, Tianhang and Chen, Yitong and Zhang, Tong and Wu, Zuxuan and Li, Ming and Wang, Jiaqi and Yu, Kaicheng},
-  journal={arXiv preprint arXiv:xxx},
+  journal={arXiv preprint arXiv:2605.26089},
   year={2026}
 }
 ```
